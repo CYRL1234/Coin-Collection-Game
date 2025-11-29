@@ -7,6 +7,7 @@ Collect the most randomly appearing coins before your opponent — the highest s
 
 ```bash
 node gem_server.js
+```
 
 You can then open http://localhost:8000/
 
