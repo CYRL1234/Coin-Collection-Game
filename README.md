@@ -19,4 +19,5 @@ You can then open http://localhost:8000/
 - Coins appear randomly on the map — grab them before your opponent does!
 - Live scoreboard shows who is winning
 - The one with the most coins wins!
+<img width="1710" height="966" alt="image" src="https://github.com/user-attachments/assets/1a3554fc-2108-4b2f-888b-57daefc14788" />
 
